@@ -1,4 +1,4 @@
-# tS_snow
+# goon_snow
 deployable snow particles for missions
 
 **Copy all files to root of the mission folder**
