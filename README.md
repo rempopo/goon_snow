@@ -14,4 +14,16 @@ edit description.ext:
 	    default = 1;
 	    texts[] = {"no","yes"};
 	};
+	
+// Snowfall music		
+	class CfgMusic
+	{
+		tracks[]={};
+		
+		class snowfall_music
+			{ 
+				name = "snowfall"; 
+				sound[] = {\sound\snowfall.ogg, db+20, 1.0};
+			};	
+	};
 ```
